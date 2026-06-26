@@ -22,7 +22,7 @@
 
 ## 4-Instanciação de objetos
 
-[link]()
+[link](https://www.typescriptlang.org/play/?#code/MYGwhgzhAEDCYCcEHsDeAod1vQLaODAC4IAXBASwDsBzAbkx2mGSrIQFdhTkEAKfAkIly1GgBoAlBixMcpABYUIAOkGFoAXjwEwjHAF992AG6dcZjrj6Si0E8goATaBjk4WbZCACmKkMg0fAAG0ADyzIgo0E5g0AAkqIrKaroG0ABmYABe9uZ5VirBkgxMRkzoRuieZJFIyFrQVD4A7nBRyHwARFTKEGBUXSWYhPUqlhbmNkA)
 
 [link]()
 
