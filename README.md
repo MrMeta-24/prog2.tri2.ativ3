@@ -10,7 +10,7 @@
 
 ## 2-Atributos e métodos
 
-[link]()
+[link](https://www.typescriptlang.org/play/?#code/MYGwhgzhAEwPYDsBuBTBBLNx1gN4Ch9pjoIwQBzMAE3QQAs4AuBAVwFsAjFAJwG4iJHigBmPdBV5gEAFxQsO3foRKxEEGT1bAZcHgAoylGnUYKuvADTRhYiVNny2FngEoCg4jProIAOiMqWgY4aABeUnIg0zgBVW9fP1txSR5pOXCbURSHOQFPaABfFRJ4dgAHNIMAR1Z09GoaJ0VeVyZoJDgGgniff0CTEOgAagja+sbqFDjS9TgQFD8QOAp9AAMAUQ04WpRoKcjjYMYIdoASXAT+qMHGQrXXGeJi4vx4BA1oZYArMEyEFAAdzUyDQmAQ2DA+gAjAAGawAVkehB+YD8ZUqYAMAGZHkA)
 
 [link]()
 
