@@ -16,7 +16,7 @@
 
 ## 3-Construtores (constructor)
 
-[link]()
+[link](https://www.typescriptlang.org/play/?#code/MYGwhgzhAECiHAPbgN4Cg3S9MICuAdohAFwQAuATgJYEDmA3JtgA6WIBmAplIpT2Sq1GGbNCQEKlPMHJ8AFLkLFBNegBo2nHhD4CpwgJTpmYrOQAW1CADolRGAF4c+B6bOXrNrd178n0D46ehCi2AC+YVgAtrTWVGCU8oYk0ABuiNQAJtDoZtgSuiBcNiCIdPIABgAkKJ62QX484dA85ACH0LEE8ZRgBFmIOHjggYlg0LX1dq7E4TaVhkxikWJokWiF5K0IyBPOBFwA7nC74PIARPjAkBfqFwBWI9RgF0sYPEjgNt29iclAA)
 
 [link]()
 
